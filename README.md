@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python, C++, C, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ mohdeep-singh-83b160105](www.linkedin.com/in/ mohdeep-singh-83b160105)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ mohdeep-singh-83b160105]
 
 - 📫 How to reach me **mohdeepstar10@gmail.com**
 
