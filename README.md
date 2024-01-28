@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohdeep Singh</h1>
 <h3 align="center">Tech Enthusiast | Seneca CPA Student | Building Dreams One Line at a Time</h3>
-<img align ="right alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif"
+<img align ="right alt="coding" width="800" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdeep12345&label=Profile%20views&color=0e75b6&style=flat" alt="mohdeep12345" /> </p>
